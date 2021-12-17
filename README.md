@@ -1,4 +1,4 @@
-### Hi there 👋
+I work on radar remote sensing, sensor networks and transmitting data in extreme environments.
 
 <!--
 **valentic/valentic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
